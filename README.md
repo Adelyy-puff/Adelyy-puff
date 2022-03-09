@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adelinaltt
-- 👀 I’m interested in Programming, UI/UX, and Pixel Art
+- 👋 Hi, I’m @adelinaleett
+- 👀 I’m interested in Website & Mobile Development, Data Science, and Pixel Art
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on (nothing at the moment)
 - 📫 How to reach me: adelinaleett@gmail.com
