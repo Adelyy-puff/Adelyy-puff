@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adelina (@adelinaleett)
+- 👋 Hi, I’m Adelina (@adelina-lee)
 - 👀 I’m interested in Web & Mobile App Development, and UI/UX
 - 🌱 I’m currently learning JavaScript, Laravel, & Flutter
 - 🧠 I have experience in C/C++, Java, & Python
